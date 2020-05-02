@@ -1,0 +1,7 @@
+[OPTIONS]
+LCID=0x421 0x0 0x0 ; Indonesian
+REPORT=Yes
+HLP=saya.hlp
+
+[FILES]
+me.rtf
